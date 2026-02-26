@@ -1,0 +1,27 @@
+# --- Keil MDK 特有临时文件 ---
+**/Objects/
+**/Listings/
+*.uvguix.*
+*.uvoptx
+*.bak
+*.dep
+*.crf
+*.o
+*.d
+*.axf
+*.htm
+*.lnp
+*.sct
+*.lst
+*.map
+
+# --- 仿真器/调试日志 ---
+JLinkLog.txt
+*.pbi
+*.pbd
+*.browse
+*.pbw
+
+*.ini
+*.scvd
+DebugConfig/
